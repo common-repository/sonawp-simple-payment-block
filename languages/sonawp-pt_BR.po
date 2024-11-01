@@ -1,0 +1,155 @@
+# Copyright (C) 2023 Sajid Javed
+# This file is distributed under the same license as the SonaWP plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SonaWP 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-payment-"
+"block\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-23T14:33:00+00:00\n"
+"PO-Revision-Date: 2023-01-30 09:35+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: sonawp\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:383
+msgid "*Email Required!"
+msgstr "*Email (obrigatório!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:355
+msgid "*Name Required!"
+msgstr "*Nome obrigatório!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:374
+msgid "*Price must be greater than 0!"
+msgstr "*O preço deve ser maior que 0!"
+
+#: includes/block/build/block.json includes/block/src/block.json
+msgctxt "block description"
+msgid "Simply pay your product with block."
+msgstr "Simplesmente pague seu produto com bloco"
+
+#: includes/block/build/block.json includes/block/src/block.json
+msgctxt "block title"
+msgid "SonaWP"
+msgstr "SonaWP"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:256
+#: includes/block/src/edit.js:386
+msgid "Create one on Paypal"
+msgstr "Crie um no Paypal"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:230
+#: includes/block/src/edit.js:359
+msgid "Enter Product Description"
+msgstr "Insira a descrição do produto"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:221
+#: includes/block/src/edit.js:350
+msgid "Enter Product Name"
+msgstr "Digite o nome do produto"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:255
+#: includes/block/src/edit.js:385
+msgid ""
+"Enter the email address associated with your PayPal account. Don't have an "
+"account?"
+msgstr ""
+"Digite o endereço de e-mail associado à sua conta do PayPal. Não tem uma "
+"conta?"
+
+#: includes/classes/class-sonawp.php:102
+msgid "Error encountered! Try again later!"
+msgstr "Erro encontrado! Tente mais tarde!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:173
+msgid "Error Message"
+msgstr "Mensagem de erro"
+
+#. Author URI of the plugin
+msgid "https://sajidjaved.me/"
+msgstr "https://sajidjaved.me/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/sonawp"
+msgstr "https://wordpress.org/plugins/sonawp"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:200
+#: includes/block/src/edit.js:329
+msgid "Image"
+msgstr "Imagem"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:187
+#: includes/block/src/edit.js:316
+msgid "Item Image"
+msgstr "Imagem do item"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:249
+#: includes/block/src/edit.js:378
+msgid "PayPal Email"
+msgstr "Email do Paypal"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:239
+#: includes/block/src/edit.js:368
+msgid "Price"
+msgstr "Preço"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:154
+msgid "Rendered Card Button on FrontEnd!"
+msgstr "Botão de cartão renderizado no FrontEnd!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:147
+msgid "Rendered PayLater Button on FrontEnd!"
+msgstr "Botão PayLater Renderizado no FrontEnd!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:140
+msgid "Rendered Paypal Button on FrontEnd!"
+msgstr "Botão Paypal Renderizado no FrontEnd!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:161
+msgid "Rendered Venmo Button on FrontEnd!"
+msgstr "Botão Venmo renderizado no FrontEnd!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:207
+#: includes/block/src/edit.js:336
+msgid "Replace Item Image"
+msgstr "Substituir imagem do item"
+
+#. Author of the plugin
+msgid "Sajid Javed"
+msgstr "Sajid Javed"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:132
+msgid "Select Currency:"
+msgstr "Escolha a moeda:"
+
+#. Plugin Name of the plugin
+msgid "SonaWP"
+msgstr "SonaWP"
+
+#. Description of the plugin
+msgid "Simply pay your product with block"
+msgstr "Simplesmente pague seu produto com bloco"
+
+#: includes/classes/class-sonawp.php:52
+msgid "Simply pay your product with block."
+msgstr "Simplesmente pague seu produto com bloco"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:167
+msgid "Success Message"
+msgstr "Mensagem de sucesso"
+
+#: includes/classes/class-sonawp.php:98
+msgid "Thank you for your payment!"
+msgstr "Obrigado por seu pagamento!"
+
+#: includes/block/build/index.js:1 includes/block/src/edit.js:206
+#: includes/block/src/edit.js:335
+msgid "Upload Item Image"
+msgstr "Carregar imagem do item"

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "sona/sonawp",
+  "version": "1.2.2",
+  "title": "SonaWP - PayPal Payment",
+  "category": "widgets",
+  "description": "Simply pay your product with PayPal payment block.",
+  "supports": {
+    "reusable": true
+  },
+  "textdomain": "sonawp",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

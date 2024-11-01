@@ -1,0 +1,169 @@
+# Copyright (C) 2023 Sajid Javed
+# This file is distributed under the same license as the SonaWP plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SonaWP 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sonawp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-23T14:33:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: sonawp\n"
+
+#. Plugin Name of the plugin
+msgid "SonaWP"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/sonawp"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simply pay your product with block"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sajid Javed"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sajidjaved.me/"
+msgstr ""
+
+#: includes/classes/class-sonawp.php:52
+msgid "Simply pay your product with block."
+msgstr ""
+
+#: includes/classes/class-sonawp.php:98
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: includes/classes/class-sonawp.php:102
+msgid "Error encountered! Try again later!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:132
+msgid "Select Currency:"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:140
+msgid "Rendered Paypal Button on FrontEnd!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:147
+msgid "Rendered PayLater Button on FrontEnd!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:154
+msgid "Rendered Card Button on FrontEnd!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:161
+msgid "Rendered Venmo Button on FrontEnd!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:167
+msgid "Success Message"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:173
+msgid "Error Message"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:187
+#: includes/block/src/edit.js:316
+msgid "Item Image"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:200
+#: includes/block/src/edit.js:329
+msgid "Image"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:206
+#: includes/block/src/edit.js:335
+msgid "Upload Item Image"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:207
+#: includes/block/src/edit.js:336
+msgid "Replace Item Image"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:221
+#: includes/block/src/edit.js:350
+msgid "Enter Product Name"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:230
+#: includes/block/src/edit.js:359
+msgid "Enter Product Description"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:239
+#: includes/block/src/edit.js:368
+msgid "Price"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:249
+#: includes/block/src/edit.js:378
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:255
+#: includes/block/src/edit.js:385
+msgid "Enter the email address associated with your PayPal account. Don't have an account?"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:256
+#: includes/block/src/edit.js:386
+msgid "Create one on Paypal"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:355
+msgid "*Name Required!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:374
+msgid "*Price must be greater than 0!"
+msgstr ""
+
+#: includes/block/build/index.js:1
+#: includes/block/src/edit.js:383
+msgid "*Email Required!"
+msgstr ""
+
+#: includes/block/build/block.json
+#: includes/block/src/block.json
+msgctxt "block title"
+msgid "SonaWP"
+msgstr ""
+
+#: includes/block/build/block.json
+#: includes/block/src/block.json
+msgctxt "block description"
+msgid "Simply pay your product with block."
+msgstr ""

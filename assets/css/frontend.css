@@ -1,0 +1,134 @@
+/* Frontend css*/
+#myCarousel {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.sona-payments-product-wrapper-paypal,
+.sona-payments-product-wrapper-stripe {
+  padding-left: 17px !important;
+  padding-right: 17px !important;
+}
+
+#myCarousel .f-carousel__slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sona-payments-product-wrapper-stripe .sona-payments-product,
+.sona-payments-product-wrapper-paypal .sona-payments-product {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sona-payments-product .sona-payments-product-image {
+  width: 100%;
+  max-width: 45%;
+}
+
+.sona-payments-product .sona-payments-product-image .f-thumbs__slide__button {
+  width: 100% !important;
+  border: none !important;
+}
+
+.sona-payments-product .sona-payments-product-image img {
+  width: 100%;
+  min-height: 300px;
+  max-height: 300px;
+  height: 100%;
+}
+
+.sona-payments-product .sona-payments-product-image .f-carousel__thumbs img {
+  min-height: fit-content;
+}
+
+.sona-payments-product .sona-payments-details {
+  width: 100%;
+  max-width: 50%;
+}
+
+.sona-payments-product .sona-payments-details .sona-payments-title h4,
+.sona-payments-product .sona-payments-details h5.sona-payments-currency {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.sona-payments-product-wrapper-stripe .sona-payments-purchase-box,
+.sona-payments-product-wrapper-paypal .sona-payments-purchase-box {
+  margin-top: 15px;
+}
+
+.sona-payments-product-wrapper-stripe .sona-payments-purchase-box button,
+.sona-payments-product-wrapper-paypal .sona-payments-purchase-box button {
+  background: transparent !important;
+  border: 1px solid #ffc439;
+  color: #000;
+  font-size: 18px;
+  line-height: 26px;
+  padding: 8px 35px !important;
+  text-transform: uppercase;
+  border-radius: 0;
+  transition: 0.2s all ease-in-out;
+  cursor: pointer;
+}
+
+.sona-payments-product-wrapper-stripe
+  .sona-payments-purchase-box
+  .stripe-btn:hover,
+.sona-payments-product-wrapper-stripe
+  .sona-payments-purchase-box
+  .stripe-btn-rounded:hover {
+  background: #ffc439 !important;
+}
+
+.sona-payments-product-wrapper-stripe
+  .sona-payments-purchase-box
+  .stripe-btn-fill {
+  background: #ffc439 !important;
+  color: #fff !important;
+}
+
+.sona-payments-product-wrapper-stripe
+  .sona-payments-purchase-box
+  .stripe-btn-fill:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+.sona-payments-product-wrapper-stripe
+  .sona-payments-purchase-box
+  .stripe-btn-rounded {
+  border-radius: 50px;
+}
+
+.sona-payments-product-image .f-carousel__nav button {
+  background-color: #fff !important;
+  color: #000 !important;
+  border-radius: 50px;
+  box-shadow: 0 6px 12px -2px rgba(50, 50, 93, 0.25),
+    0 3px 7px -3px rgba(0, 0, 0, 0.3);
+}
+
+.sona-payments-product-image .f-carousel__nav button.is-prev {
+  left: -15px !important;
+}
+
+.sona-payments-product-image .f-carousel__nav button.is-next {
+  right: -15px !important;
+}
+
+@media screen and (max-width: 768px) {
+  .sona-payments-product {
+    flex-direction: column;
+  }
+
+  .sona-payments-product .sona-payments-product-image {
+    max-width: 100%;
+  }
+
+  .sona-payments-product .sona-payments-details {
+    max-width: 100%;
+    margin-top: 30px;
+  }
+}
